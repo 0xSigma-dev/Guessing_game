@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "id": "59b39124-c545-4d65-bcb3-0de35f0e7d80",
+      "name": "Peter",
+      "level": 10
+    },
+    {
+      "id": "43b2a1cd-01ad-49ac-b496-a03ec7db5fb2",
+      "name": "Tailor",
+      "level": 6
+    },
+    {
+      "id": "f6d24a02-949d-4738-a85b-a234a90e0ff1",
+      "name": "Tolani",
+      "level": 4
+    }
+  ]
+}
